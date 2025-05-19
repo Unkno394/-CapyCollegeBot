@@ -16,4 +16,6 @@ _Telegram-бот-ассистент для студентов РКСИ_
 🚀 **Запуск:**  
 ```bash
 python bot.py
-![photo_2025-05-20_00-36-17](https://github.com/user-attachments/assets/98343e66-290d-4212-9815-2eb64b87cc84)
+![capybara](npukol/photo_2025-05-20_00-36-17.jpg)
+
+
